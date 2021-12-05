@@ -5,12 +5,13 @@ ii)It contains 3 modules
         i)Movies
         ii)Actors
         iii)Producers
-iii)This projects uses Dapper for faster connection to database
+iii)This projects uses Dapper for faster connection to database.
 iv)I have used MYSQL Server for database
 v)Mapper is used for mapping
 vi)I have created store procedures for performing query. All the store procedure are develop according the coding guidelines with error throwing if transaction failed.
 vii)I have wrriten executing statement in all the store procedure for better understanding.
 viii)This project is created using dependency Injection
+
 
 APIs Path  (Actor):-
 
