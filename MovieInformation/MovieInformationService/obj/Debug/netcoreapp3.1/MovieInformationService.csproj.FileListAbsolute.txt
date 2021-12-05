@@ -1,0 +1,14 @@
+E:\Projects\MovieInformation\MovieInformationService\bin\Debug\netcoreapp3.1\MovieInformationModels.dll
+E:\Projects\MovieInformation\MovieInformationService\bin\Debug\netcoreapp3.1\MovieInformationRepository.dll
+E:\Projects\MovieInformation\MovieInformationService\obj\Debug\netcoreapp3.1\MovieInformationService.csprojAssemblyReference.cache
+E:\Projects\MovieInformation\MovieInformationService\obj\Debug\netcoreapp3.1\MovieInformationService.AssemblyInfoInputs.cache
+E:\Projects\MovieInformation\MovieInformationService\obj\Debug\netcoreapp3.1\MovieInformationService.AssemblyInfo.cs
+E:\Projects\MovieInformation\MovieInformationService\obj\Debug\netcoreapp3.1\MovieInformationService.csproj.CoreCompileInputs.cache
+E:\Projects\MovieInformation\MovieInformationService\bin\Debug\netcoreapp3.1\MovieInformationService.deps.json
+E:\Projects\MovieInformation\MovieInformationService\bin\Debug\netcoreapp3.1\MovieInformationService.dll
+E:\Projects\MovieInformation\MovieInformationService\bin\Debug\netcoreapp3.1\MovieInformationService.pdb
+E:\Projects\MovieInformation\MovieInformationService\bin\Debug\netcoreapp3.1\MovieInformationModels.pdb
+E:\Projects\MovieInformation\MovieInformationService\bin\Debug\netcoreapp3.1\MovieInformationRepository.pdb
+E:\Projects\MovieInformation\MovieInformationService\obj\Debug\netcoreapp3.1\MovieInformationService.csproj.CopyComplete
+E:\Projects\MovieInformation\MovieInformationService\obj\Debug\netcoreapp3.1\MovieInformationService.dll
+E:\Projects\MovieInformation\MovieInformationService\obj\Debug\netcoreapp3.1\MovieInformationService.pdb

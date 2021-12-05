@@ -1,0 +1,9 @@
+E:\Projects\MovieInformation\MovieInformationModels\obj\Debug\netcoreapp3.1\MovieInformationModels.csprojAssemblyReference.cache
+E:\Projects\MovieInformation\MovieInformationModels\obj\Debug\netcoreapp3.1\MovieInformationModels.AssemblyInfoInputs.cache
+E:\Projects\MovieInformation\MovieInformationModels\obj\Debug\netcoreapp3.1\MovieInformationModels.AssemblyInfo.cs
+E:\Projects\MovieInformation\MovieInformationModels\obj\Debug\netcoreapp3.1\MovieInformationModels.csproj.CoreCompileInputs.cache
+E:\Projects\MovieInformation\MovieInformationModels\bin\Debug\netcoreapp3.1\MovieInformationModels.deps.json
+E:\Projects\MovieInformation\MovieInformationModels\bin\Debug\netcoreapp3.1\MovieInformationModels.dll
+E:\Projects\MovieInformation\MovieInformationModels\bin\Debug\netcoreapp3.1\MovieInformationModels.pdb
+E:\Projects\MovieInformation\MovieInformationModels\obj\Debug\netcoreapp3.1\MovieInformationModels.dll
+E:\Projects\MovieInformation\MovieInformationModels\obj\Debug\netcoreapp3.1\MovieInformationModels.pdb
