@@ -15,6 +15,7 @@ viii)This project is created using dependency Injection
 APIs Path  (Actor):-
 
 PUT API:-
+
 api/v1/movie/actors
 {
         actorId=2	
@@ -25,6 +26,7 @@ api/v1/movie/actors
 
 POST API:-
 
+
 api/v1/movie/actors
 {	
         actorName='Shah Rukh Khan'
@@ -33,12 +35,15 @@ api/v1/movie/actors
 }
 
 Get API:-
+
+
 api/v1/movie/actor-details
 {
         "Id":1
 }
 
 Delete API:
+
 api/v1/movie/actor
 {
         "Id":1
@@ -47,6 +52,7 @@ api/v1/movie/actor
 APIs Path for Producer:-
 
 PUT API:-
+
 api/v1/movie/producers
 {
         producerId=1	
@@ -56,6 +62,7 @@ api/v1/movie/producers
 }
 
 POST API:-
+
 api/v1/movie/producers
 {	
         producerName='Shah Rukh Khan'
@@ -64,12 +71,14 @@ api/v1/movie/producers
 }
 
 GET API:-
+
 api/v1/movie/producer-details
 {
         "Id":1
 }
 
 DELETE API:-
+
 api/v1/movie/producer
 {
         "Id":1
@@ -78,6 +87,7 @@ api/v1/movie/producer
 APIs Path for Movie:-
 
 PUT API:-
+
 api/v1/movie/movies
 {
         movieId=1	
@@ -88,6 +98,7 @@ api/v1/movie/movies
 }
 
 POST API:-
+
 api/v1/movie/movies
 {	
         movieName='Shah Rukh Khan'	
@@ -97,12 +108,14 @@ api/v1/movie/movies
 }
 
 GET API:-
+
 api/v1/movie/movie-details
 {
         "Id":1
 }
 
 DELETE API:-
+
 api/v1/movie/movie
 {
         "Id":1
